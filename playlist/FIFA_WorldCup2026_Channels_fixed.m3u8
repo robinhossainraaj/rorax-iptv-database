@@ -1,0 +1,151 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Al Kass 1" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 2" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 3" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 4" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 5" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 6" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 7" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 7
+https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ English" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",FIFA+ English
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ French" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",FIFA+ French
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ German" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",FIFA+ German
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ Spanish (MX)" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",FIFA+ Spanish MX
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ Italian" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",FIFA+ Italian
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ Portuguese (BR)" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",FIFA+ Portuguese BR
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ Spanish (ES)" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",FIFA+ Spanish ES
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ Samsung US" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",FIFA+ Samsung US
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ Women" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports Xtra" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",beIN Sports Xtra
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.vf=kBQplLldqQO
+
+#EXTINF:-1 tvg-name="beIN Sports Xtra Espanol" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",beIN Sports Xtra Espanol
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports (Pluto)" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",Bein Sports Pluto
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 2 (Live)" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",Bein Sports 2 Live
+https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 3 Extra" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",Bein Sports 3 Extra
+https://jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8
+
+#EXTINF:-1 tvg-name="CBC Sports" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",CBC Sports
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CBS Golazo Network" tvg-logo="https://play-lh.googleusercontent.com/oi4GE8ulxHp4Y2xVzKu_WAMrgE4Jj4Kbdd7hAWLeoZTsMtC5bYTd2xcYhlvMk69pTFY=w240-h480-rw" group-title="FIFA World Cup 2026",CBS Golazo Network
+https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
+
+#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://play-lh.googleusercontent.com/oi4GE8ulxHp4Y2xVzKu_WAMrgE4Jj4Kbdd7hAWLeoZTsMtC5bYTd2xcYhlvMk69pTFY=w240-h480-rw" group-title="FIFA World Cup 2026",CBS Sports HQ
+https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo (NBC/Peacock)" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",NBC Sports XUMO
+https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TRT Spor 1 (Turkey)" tvg-logo="https://www.trt.net.tr/Images/trt-logo.png" group-title="FIFA World Cup 2026",TRT Spor 1
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Spor 2 (Turkey)" tvg-logo="https://www.trt.net.tr/Images/trt-logo.png" group-title="FIFA World Cup 2026",TRT Spor 2
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="RTA Sports (UAE)" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",RTA Sports UAE
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+
+#EXTINF:-1 tvg-name="Kuwait Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/200px-Flag_of_Kuwait.svg.png" group-title="FIFA World Cup 2026",Kuwait Sports
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Kuwait Sports Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/200px-Flag_of_Kuwait.svg.png" group-title="FIFA World Cup 2026",Kuwait Sports Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Rai Sport (Italy)" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",Rai Sport
+https://srv1.adriatelekom.com/RaiSport/index.m3u8
+
+#EXTINF:-1 tvg-name="Esport 3 (Catalonia)" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",Esport 3
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-name="Esport 3 HD (Catalonia)" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",Esport 3 HD
+https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-name="ERT Sports (Greece)" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",ERT Sports Greece
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+
+#EXTINF:-1 tvg-name="LRT Plus (Lithuania Sport)" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",LRT Plus Lithuania
+https://stream-live.lrt.lt/plius/master.m3u8
+
+#EXTINF:-1 tvg-name="TVP Sport (Poland)" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",TVP Sport Poland
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-name="TVR Sport (Romania)" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",TVR Sport Romania
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+
+#EXTINF:-1 tvg-name="TVRI Sport HD (Indonesia)" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",TVRI Sport HD Indonesia
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-name="Varzesh 3 Iran Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/200px-Flag_of_Iran.svg.png" group-title="FIFA World Cup 2026",Varzesh 3 Iran Sport
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Varzesh TV (Iran)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/200px-Flag_of_Iran.svg.png" group-title="FIFA World Cup 2026",Varzesh TV Iran
+https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TYC Sports" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",TYC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Globo Esporte" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",Globo Esporte
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="QazSport TV (Kazakhstan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/200px-Flag_of_Kazakhstan.svg.png" group-title="FIFA World Cup 2026",QazSport TV
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Olympic Channel" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",Olympic Channel
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
+
+#EXTINF:-1 tvg-name="Sport Italia Solo Calcio" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",Sport Italia Solo Calcio
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Caze TV Brazil" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",Caze TV Brazil
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-name="GOL TV (Pluto)" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",GOL TV
+https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
+
+#EXTINF:-1 tvg-name="HT Spor (Turkey)" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",HT Spor Turkey
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+#EXTINF:-1 tvg-name="ORTB Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/200px-Flag_of_Benin.svg.png" group-title="FIFA World Cup 2026",ORTB Sport
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Africa 24 Sport" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
