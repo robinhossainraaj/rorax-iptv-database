@@ -1,0 +1,11 @@
+[
+  {
+    "name": "FIFA World Cup 2026",
+    "category": "Sports",
+    "description": "All Channels those who Have FIFA World cup stream rights",
+    "playlist": "https://raw.githubusercontent.com/robinhossainraaj/rorax-iptv-database/refs/heads/main/playlist/FIFA_WorldCup2026_Channels_fixed.m3u8",
+    "download": "https://raw.githubusercontent.com/robinhossainraaj/rorax-iptv-database/blob/main/downloads/FIFA_WorldCup2026.zip",
+    "channels": 50,
+    "updated": "2026-05-24"
+  },
+]
