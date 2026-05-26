@@ -1,0 +1,24 @@
+Your JSON format is almost correct, but it is missing a comma between the two objects inside the array.
+
+Here is the fixed and valid version:
+
+[
+  {
+    "name": "FIFA World Cup 2026",
+    "category": "Sports",
+    "description": "Official broadcasters and sports channels with FIFA World Cup 2026 streaming and live coverage rights from multiple countries and regions worldwide.",
+    "playlist": "https://raw.githubusercontent.com/robinhossainraaj/rorax-iptv-database/refs/heads/main/playlist/FIFA_WorldCup2026_Channels_fixed.m3u8",
+    "download": "https://raw.githubusercontent.com/robinhossainraaj/rorax-iptv-database/blob/main/downloads/FIFA_WorldCup2026.zip",
+    "channels": 50,
+    "updated": "2026-05-24"
+  },
+  {
+    "name": "Sports Channels Worldwide",
+    "category": "Sports",
+    "description": "Collection of international sports channels featuring live events, football, cricket, basketball, motorsports, and premium sports coverage from around the world.",
+    "playlist": "https://raw.githubusercontent.com/robinhossainraaj/rorax-iptv-database/refs/heads/main/playlist/Unknown%20Sports.m3u",
+    "download": "https://raw.githubusercontent.com/robinhossainraaj/rorax-iptv-database/blob/main/downloads/FIFA_WorldCup2026.zip",
+    "channels": 120,
+    "updated": "2026-05-26"
+  }
+]
