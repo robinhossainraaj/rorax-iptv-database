@@ -1,0 +1,18 @@
+[
+  {
+    "name": "FIFA World Cup 2026",
+    "category": "Sports",
+    "description": "Official broadcasters and sports channels with FIFA World Cup 2026 streaming and live coverage rights from multiple countries and regions worldwide.",
+    "playlist": "https://raw.githubusercontent.com/robinhossainraaj/rorax-iptv-database/refs/heads/main/playlist/FIFA_WorldCup2026_Channels_fixed.m3u8",
+    "channels": 50,
+    "updated": "2026-05-24"
+  },
+  {
+    "name": "Combined BD/IND International Channels",
+    "category": "Multi - Channels",
+    "description": "Access 269+ official international sports & TV channels with FIFA World Cup 2026 live streaming and coverage from multiple countries and regions worldwide. ⚽🔥",
+    "playlist": "https://raw.githubusercontent.com/FunctionError/PiratesTv/refs/heads/main/combined_playlist.m3u",
+    "channels": 269,
+    "updated": "2026-05-28"
+  }
+]
