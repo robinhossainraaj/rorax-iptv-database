@@ -6,7 +6,7 @@
     "playlist": "https://raw.githubusercontent.com/robinhossainraaj/rorax-iptv-database/refs/heads/main/playlist/FIFA_WorldCup2026_Channels_fixed.m3u8",
     "channels": 50,
     "updated": "2026-05-24"
-  },
+  }
   {
     "name": "Combined BD/IND International Channels",
     "category": "Multi - Channels",
@@ -14,7 +14,7 @@
     "playlist": "https://raw.githubusercontent.com/FunctionError/PiratesTv/refs/heads/main/combined_playlist.m3u",
     "channels": 269,
     "updated": "2026-05-28"
-  },
+  }
   {
     "name": "Combined BD/IND International Channels",
     "category": "Multi - Channels",
@@ -22,7 +22,7 @@
     "playlist": "https://raw.githubusercontent.com/robinhossainraaj/rorax-iptv-database/refs/heads/main/playlist/Bangladeshi%20channels.m3u8",
     "channels": 269,
     "updated": "2026-05-28"
-  },
+  }
  {
   "name": "Global Sports Hub 2026",
   "category": "Sports",
@@ -30,5 +30,5 @@
   "playlist": "https://raw.githubusercontent.com/robinhossainraaj/rorax-iptv-database/main/playlist/Global_Sports_Hub_2026_fixed.m3u8",
   "channels": 160,
   "updated": "2026-05-31"
-  },
+  }
 ]
