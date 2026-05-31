@@ -1,0 +1,496 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-1-pt.png" group-title="Sports",Eleven Sports 1
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-2-pt.png" group-title="Sports",Eleven Sports 2
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-3-pt.png" group-title="Sports",Eleven Sports 3
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-4-pt.png" group-title="Sports",Eleven Sports 4
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-5-pt.png" group-title="Sports",Eleven Sports 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SCTV_new_logo.svg/800px-SCTV_new_logo.svg.png" group-title="Unknown",Andro Stream S1
+https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Net_logo.svg/800px-Net_logo.svg.png" group-title="Unknown",Andro Stream EXN2
+https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Indosiar_Logo.svg/800px-Indosiar_Logo.svg.png" group-title="Unknown",Andro Stream IDM
+https://andro.226503.xyz/checklist/androstreamliveidm.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Trans7_logo.svg/800px-Trans7_logo.svg.png" group-title="Unknown",Andro Stream BS3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/georgia/gpb-2tv-ge.png" group-title="General",GPB 2TV Georgia
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="Sports",A Spor 720p (Turkey)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="Sports",A Spor 480p (Turkey)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/arena-sport-1-srb.png" group-title="Sports",Arena Sport 1
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-sport-ru.png" group-title="Sports",RuSport HD Astrakhan
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-supersport-3-my.png" group-title="Sports",Astro SuperSport 3
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSSB3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ukraine/suspilne-sport-ua.png" group-title="Sports",Ukraine Sport Ch 1101
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",Only4 Sport Stream
+http://s.only4.tv/5588/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ukraine/suspilne-sport-ua.png" group-title="Sports",Ukraine Sport Ch 1102
+http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eurosport-1-int.png" group-title="Sports",Eurosport Sport 559
+http://145.239.5.177:80/559/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Sports",Canal+ Sport HD (FR)
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png" group-title="General",Canal+ HD (FR)
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eurosport-1-int.png" group-title="Sports",Sport Stream 5134
+http://213.169.39.30:5134
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eurosport-2-int.png" group-title="Sports",Sport Stream 11170
+http://92.247.25.42:11170/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eurosport-2-int.png" group-title="Sports",Sport Stream 5136
+http://213.169.39.30:5136
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sport1-de.png" group-title="Sports",Sport1 Germany
+http://de.online24.pm/play/51003/0E5BF0B5A9755BD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eurosport-2-int.png" group-title="Sports",Sport Stream 11172
+http://92.247.25.42:11172/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",IP Stream 5216
+http://213.169.39.30:5216
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",IP Stream A04D
+http://46.149.191.217:9000/play/a04d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",IP Stream 35005
+http://91.201.172.14:35005/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin America A
+http://190.117.20.39:8000/play/a08d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin America B
+http://190.117.20.37:8000/play/a08d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",Latin Sport Stream YV
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Latin Fox Sport 00M
+http://191.97.49.82:8001/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Latin Fox Sport 07I
+http://181.205.130.194:4000/play/a07i
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 01R
+http://200.10.30.241:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 02O
+http://181.224.200.5:2277/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Latin Fox Sport 08A
+http://45.173.74.2:2010/play/a08a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 04G
+http://181.118.156.46:8000/play/a04g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-2-latam.png" group-title="Sports",ESPN 2 (Africa)
+http://41.223.30.230/ESPN2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eurosport-2-int.png" group-title="Sports",Eurosport 2 HD (RU)
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eurosport-2-int.png" group-title="Sports",Eurosport 2 HD Alt
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 02D
+http://45.172.92.111:8000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 02V
+http://45.5.119.43:4000/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin OQ
+http://8.243.126.131:8000/play/a0oq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin IH
+http://8.243.126.131:8000/play/a0ih/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 05I
+http://45.228.234.62:8000/play/a05i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin AS
+http://200.229.147.210:9999/play/a0as/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 03I
+http://200.229.147.142:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin OG
+http://187.245.231.226:8000/play/a0og/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 02V-2
+http://181.119.108.27:7292/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 04P
+http://186.33.25.234:8125/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",CableMax Sport
+http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin JE
+http://38.210.3.64:8090/play/a0je/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 05A
+http://8.243.126.131:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin AA
+http://201.240.104.137:8000/play/a0aa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 081
+http://200.60.124.20:29000/play/a081/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin S8
+http://181.224.255.210:8001/play/a0s8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin XE
+http://200.59.188.3:8000/play/a0xe
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin Radio 192
+http://74.208.30.121/a192/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 05Q
+http://45.5.119.43:4000/play/a05q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 00A
+http://45.228.234.62:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 05R
+http://45.186.105.214:8000/play/a05r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 096
+http://200.229.147.142:8000/play/a096/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 012
+http://24.152.53.3:8090/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin UT
+http://187.245.231.226:8000/play/a0ut/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 013
+http://177.10.184.60:8002/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Latin Sport CA040
+http://190.83.9.222:8000/play/ca040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin CA099
+http://190.83.9.222:8000/play/ca099/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 07E
+http://45.171.64.30:8800/play/a07e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 01V
+http://200.229.147.210:9999/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 00G
+http://200.229.147.210:9999/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 00D
+http://200.229.147.142:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 02I
+http://200.115.96.66:4000/play/a02i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 00H
+http://200.229.147.210:9999/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 00E
+http://200.229.147.142:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 02H
+http://200.115.96.66:4000/play/a02h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 04K
+http://200.229.147.142:8000/play/a04k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 05G
+http://200.229.147.142:8000/play/a05g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 005
+http://200.115.96.66:4000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 001
+http://200.115.96.66:4000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin DN
+http://200.115.96.66:4000/play/a0dn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Colombia CC
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Colombia AM
+http://181.78.211.244:8005/play/a0am/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Colombia 2S
+http://181.78.21.46:8009/play/a02s
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Colombia 6V
+http://181.78.8.199:8000/play/a06v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Colombia UL
+http://181.205.205.173:8888/play/a0ul/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 8X
+http://45.5.118.152:8000/play/a08x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 00H-2
+http://45.228.234.62:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 08E
+http://45.171.64.30:2000/play/a08e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 05T
+http://45.5.119.43:4000/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",Deportivo Sport 94
+https://futbol9865.ultratv13.workers.dev/deportivo111/94.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",Deportivo Sport 95
+https://futbol9865.ultratv13.workers.dev/deportivo111/95.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Deportivo Fox Sport 68
+https://futbol9865.ultratv13.workers.dev/deportivo111/68.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",Deportivo Sport 106
+https://futbol9865.ultratv13.workers.dev/deportivo111/106.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Deportivo Fox Sport 107
+https://futbol9865.ultratv13.workers.dev/deportivo111/107.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",Futbol Sport 2 (LA)
+http://193.25.8.59:8000/fut2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin I7
+http://179.60.224.196:8000/play/a0i7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",Latin Sport CA124
+http://200.115.120.1:8000/play/ca124/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Sports",CDN Sport Stream 56
+http://cdntv.online/low/9mlxywika2/56.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Sports",CDN Sport AMTY
+http://cdn6.163189.xyz/163189/amty
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/azerbaijan/idman-az.png" group-title="Sports",Idman TV (Azerbaijan)
+https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/max-sport-4-int.png" group-title="Sports",Max Sport 4
+http://77.46.130.252:99/maxsport4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Latin 06R
+http://181.78.109.48:9998/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Sports",OTT Club Sport 6554
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",IP Stream 35006
+http://91.201.172.14:35006/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-tv-ru.png" group-title="Sports",Match TV Russia (Catchup)
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-tv-ru.png" group-title="Sports",Match TV Russia HD
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Sports",CDN Sport Stream 48
+http://cdntv.online/low/9mlxywika2/48.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",Latin Sport CA040 Alt
+http://200.115.120.1:8000/play/ca040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eurosport-1-int.png" group-title="Sports",Eurosport 1 MPEGTS
+http://145.239.5.177/559/mpegts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Sports",CDN Sport Stream 1021
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Sports",CDN Sport Stream 1022
+http://cdntv.online/low/9mlxywika2/1022.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-tv-ru.png" group-title="Sports",Match TV Tuva
+http://tv.tuva.ru/machtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-tv-ru.png" group-title="Sports",Match TV Stream 185.46
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-tv-ru.png" group-title="Sports",Match TV 5.188
+http://5.188.221.43:8080/play/match
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",IP Stream A003
+http://95.47.155.244:8001/play/a003
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",Futbol Sport 1 (LA)
+http://193.25.8.59:8000/fut
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Sports",CDN Sport Stream 55
+http://cdntv.online/low/9mlxywika2/55.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eurosport-1-int.png" group-title="Sports",Sport 110 MPEGTS
+http://185.57.68.33/110/mpegts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eurosport-1-int.png" group-title="Sports",Sport 110 Playlist
+http://185.57.68.33:8091/110/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Sports",CDN Sport Stream 57
+http://cdntv.online/low/9mlxywika2/57.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eurosport-1-int.png" group-title="Sports",Sport 110 Index
+http://185.57.68.33:80/110/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",IP Stream A019
+http://46.149.191.217:9010/play/a019
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/alpha-tv-gr.png" group-title="General",Alpha TV Greece CH004
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ukraine/suspilne-sport-ua.png" group-title="Sports",Suspilne Sport (UA)
+https://tva.in.ua/live/susp-sport.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/albania/tvsh-al.png" group-title="General",TVSH Albania 494
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/albania/tvsh-al.png" group-title="General",TVSH Albania 495
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",IP Stream A01D
+http://217.73.139.200:5443/play/a01d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",Dienalt Stream 2555
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="Sports",CT Sport (Czech)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/sport1-cz.png" group-title="Sports",Sport1 (Czech)
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/sport2-cz.png" group-title="Sports",Sport2 (Czech)
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/arena-sport-2-srb.png" group-title="Sports",Arena Sport 2
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/max-sport-1-int.png" group-title="Sports",Max Sport 1
+http://77.46.130.252:99/maxsport1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/max-sport-2-int.png" group-title="Sports",Max Sport 2
+http://77.46.130.252:99/maxsport2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/max-sport-3-int.png" group-title="Sports",Max Sport 3
+http://77.46.130.252:99/maxsport3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",IP Stream A017
+http://46.149.191.217:9010/play/a017
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",JMP2 Stream ATAJ
+https://jmp2.uk/stvp-ATAJ0500433A
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",Dienalt Stream 2561
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",Dienalt Stream 2559
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",Dienalt Stream 2560
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",TVHeadend Stream 906723447
+http://212.186.45.34:9981/stream/channelid/906723447
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",Dienalt Stream 2558
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",Latin Sport CA016
+http://200.115.120.1:8000/play/ca016/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/caze-tv-br.png" group-title="Sports",CazéTV Brazil
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/real-madrid-tv-es.png" group-title="Sports",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/bein-sports-int.png" group-title="Sports",beIN Sports ESP (Xumo)
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 012 Alt
+http://190.0.247.38:8000/play/a012
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/costa-rica/telecosta-cr.png" group-title="General",Telecosta TV
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",ESPN Latin 068
+http://190.0.247.38:8000/play/a068
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/fox-sports-latam.png" group-title="Sports",Fox Sports Colombia H0
+http://181.205.205.173:8888/play/a0h0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="General",NBCU Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motortrend-us.png" group-title="Sports",MotorTrend Sport (Krave)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-tv-ru.png" group-title="Sports",Match TV Prosto CH109
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/alpha-tv-gr.png" group-title="General",Alpha TV Greece (Legacy)
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/alpha-tv-gr.png" group-title="General",Alpha TV Greece Legacy Alt
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/teleromagna-it.png" group-title="General",Teleromagna (Italy)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png" group-title="General",BFM TV France (JMP2)
+https://jmp2.uk/stvp-FR200016Y5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",FreeM3U Live Stream
+https://freem3u.xyz/api/live/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dazn-int.png" group-title="Unknown",MegaTV Stream 19146
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/myanmar/mntv-mm.png" group-title="General",MMN HD Sport Myanmar
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/egypt/masr-eg.png" group-title="General",Masr TV Egypt
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/espn-latam.png" group-title="Sports",Sporting HD (CL)
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/georgia/gpb-2tv-ge.png" group-title="General",RGE Live Stream 1
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/georgia/gpb-2tv-ge.png" group-title="General",RGE Live Stream 2
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
